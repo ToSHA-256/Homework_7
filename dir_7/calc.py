@@ -1,0 +1,5 @@
+print('Enter first number: ')
+first = int(input())
+print('Enter second number: ')
+second = int(input())
+print(first % second)
